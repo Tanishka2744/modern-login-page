@@ -16,6 +16,6 @@ A beautiful and responsive login page built using HTML & CSS.
 - HTML5
 - CSS3
 
-## 💙 Author
+⭐ If you like this project, don't forget to star the repository!
 
-Tanishka Khandelwal
+Made with 💙 by Tanishka Khandelwal
