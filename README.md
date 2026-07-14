@@ -1,2 +1,21 @@
-# modern-login-page
-A Modern Responsive Login Page built using HTML and CSS with glassmorphism UI, smooth animations, and responsive design.
+# ✨ Modern Login Page
+
+A beautiful and responsive login page built using HTML & CSS.
+
+## 🚀 Features
+
+- Glassmorphism UI
+- Animated Gradient Background
+- Floating Labels
+- Responsive Design
+- Hover Effects
+- Smooth Animations
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+
+## 💙 Author
+
+Tanishka Khandelwal
